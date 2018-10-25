@@ -1,0 +1,3 @@
+The project that i am working on is a universal application for IoT devices.
+This application enables users to manage all their IoT devices from a single platform. 
+This application will save time to open different applications to manage different devices and saves the space as well. 
